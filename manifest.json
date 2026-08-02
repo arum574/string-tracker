@@ -1,11 +1,11 @@
 {
-    "name": "string_tracker",
-    "short_name": "string_tracker",
+    "name": "String Tracker",
+    "short_name": "String Tracker",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A0908",
+    "theme_color": "#0A0908",
+    "description": "Track badminton restringing jobs, revenue, and customer stringing schedules.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
